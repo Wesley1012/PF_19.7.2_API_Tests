@@ -1,0 +1,5 @@
+valid_login = "testov@test.test"
+valid_password = "kir101"
+invalid_login = "netestov@test.netest"
+invalid_password = "nekir101"
+appid = "1fb2a9a32d0f1688a643b17c67c46f5"
